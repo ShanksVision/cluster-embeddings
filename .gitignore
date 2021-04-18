@@ -1,0 +1,4 @@
+*.pt
+*.pth
+/Data
+/gan_augment
